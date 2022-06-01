@@ -1,0 +1,3 @@
+¿Qué es el ciclo for?
+
+Es una forma de repetir un conjunto de comandos o instrucciones hasta que se cumpla una condición, por ejemplo podemos decirle a alguien que cuente hasta 100, esa persona contará de uno en uno hasta llegar al 100.

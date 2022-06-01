@@ -1,0 +1,6 @@
+Operador and (&&)
+    Este operador nos permite incluir varias condiciones. Por ejemplo voy a decir que compraré un helado sí este es de sabor vainilla y sí este vale menos de 1 dolar. Por lo tanto solo compro el helado sí se cumplen ambas condiciones (True), de lo contrario no lo haré (False)
+Operador OR (||)
+    Este operador nos permite tomar una decisión si tan solo se cumple una condición dentro de varias que le planteamos. Por ejemplo: Voy a comprar un carro si este es de color rojo o de color azul. Sí alguna de estas condiciones se cumple, compraré el carro (True) de lo contrario no lo compraré (False)
+Operador NOT (!)
+    Este operador nos permite hacer lo opuesto de lo que se anuncia a la derecha. Sigamos con el ejemplo del carro: Yo compraré el carro si este NO es gris. De esta manera sí el color del carro es diferente al gris lo compraré (True) pero sí este es igual a gris no lo compraré.
