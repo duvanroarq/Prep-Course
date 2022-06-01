@@ -1,0 +1,3 @@
+¿Qué es un string?
+
+"Es un tipo de dato que se caracteriza por almacenar todo tipo de caracteres, desde las letras del abecedario, los números del 1 al 100 y otros signos como el punto o la coma. Cuando le hacemos una carta a alguien, en esa carta ponemos lo que queremos plasmar sin limitantes, nuestra única regla es poner comillas entre el inicio y el final, cómo si estuvieramos citando lo que dijo alguien." (Esta explicación es un ejemplo de una cadena de caracteres o string)

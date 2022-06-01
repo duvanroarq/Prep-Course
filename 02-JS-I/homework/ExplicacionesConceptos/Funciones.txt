@@ -1,0 +1,15 @@
+¿Qué es una función?
+Las funciones nos permiten acelerar actividades que pueden desarrollarse de manera recurrente en nuestra vida, cómo cuando necesitamos preparar un desayuno.
+Para preparar el desayuno definimos lo que vamos a preparar, luego contamos con unos insumos para prepararlo, luego unas instrucciones para finalmente retornar un desayuno.
+¿Cómo aplica una función?
+
+    1. Definimos el desayuno que vamos a hacer. function huevos_revueltos
+    2. Definimos los argumentos, en este caso los insumos para hacerlos (huevos, sal, aceite)
+    3. Definimos las instrucciones para hacerlos.
+        a. Encender la estufa y poner sobre ella un sarten.
+        b. Aplicar el aceite sobre el sarten.
+        c. Mezclar dos huevos en una taza, hasta que quede una mezcla homogenea.
+        d. Aplicar sal y terminar de revolver.
+        e. Poner los huevos en el sarten.
+        f. Retirar los huevos cuando ya esten cocinados.
+    4. Finalmente nuestra función da un resultado. En este caso unos ricos huevos revueltos.

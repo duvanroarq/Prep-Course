@@ -1,0 +1,12 @@
+¿Qué es una variable?
+
+Una variable permite asignar un valor a algo para que se pueda almacenar en la memoria, con el fin de no olvidarlo y poder recordarlo más adelante.
+
+Un ejemplo de esto en la vida cotidiana es cuando conocemos a una persona que nos agrada mucho.
+    / En nuestra memoria guardamos varios datos sobre esa persona, con el fin de recordarlos más adelante.
+    / Digamos que queremos recordar su cumpleaños con el fin de celebrar su cumpleaños y no olvidarlo, por lo tanto dejamos un campo en nuestra memoria para recordar la fecha y así no olvidarlo.
+    / Nombre = "Emiliano"
+    / Edad = 12
+    / FechaCumple = "05 de Junio"
+
+    Luego con esta información podemos hacer muchas cosas, dentro de ello recordarlo.

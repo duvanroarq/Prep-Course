@@ -1,0 +1,3 @@
+¿Qué son los valores Booleanos?
+
+Son el resultado de aplicar sentencias en donde el resultado solo tiene dos opciones: Falso o Verdadero. Es muy común aplicarlo en la vida diaria cuando hacemos preguntas que pueden ser un sí o un no. ¿Juanito tiene 15 años? No, es Falso ¿Juanito es menor de edad? Si, es Verdadero.

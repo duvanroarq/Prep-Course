@@ -1,0 +1,7 @@
+¿Qué son las declaraciones?
+
+Son instrucciones que se le dan a un programa para que este haga algo, puede ser desde almacenar una información hasta ejecutar un conjunto de procedimientos sí se cumple algo en específico.
+
+La declaración if:
+Esta declaración hace parte de una estructura de control condicional, lo que quiere decir que se usa en el caso de que algo se cumpla, con la condición de que suceda algo. Es muy recurrente en la vida cotidiana cuando se toman decisiones, por ejemplo:
+    - Juanito se cortará el cabello sí la mamá le dice que lo tiene muy largo, sí la mamá no le dice nada el seguirá teniendo su cabello.
