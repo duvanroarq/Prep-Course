@@ -1,0 +1,3 @@
+¿Qué es un arreglo?
+
+Es cómo una colección de datos que nos permite almacenar dentro de un solo conjunto un gran número de datos y de todo tipo. Un ejemplo es cuando hacemos una lista de mercado, dentro de esa lista metemos cada una de las cosas que necesitamos comprar. Estos se definen entre corchetes cuadrados []
