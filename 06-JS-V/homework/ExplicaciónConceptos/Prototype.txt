@@ -1,0 +1,3 @@
+¿Qué es un prototipo?
+
+Es una opción que nos permite generar propiedades compartidas de una clase o métodos compartidos, lo que nos permite ahorrar espacio y tiempo, al no tener que crear más de una vez lo mismo.
