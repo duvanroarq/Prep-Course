@@ -1,0 +1,3 @@
+¿Qué es un objeto?
+
+Un objeto es aquel lugar en el que se almacena información realacionada sobre algo en específico. Se diferencia de un array, en que el array guarda todo tipo de información que no puede tener relación entre sí. Es como un diccionario en Python que tiene una clave y un valor.

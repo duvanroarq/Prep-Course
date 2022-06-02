@@ -1,0 +1,3 @@
+¿Qué es un método?
+
+Son acciones que hacen algo a un elemento. En JS las funciones guardadas dentro de un objeto se denominan métodos. Pero también hay métodos predefinidos. Como el metodo para saber la longitud de algo o el metodo para agregar algo a un elemento.

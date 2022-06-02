@@ -1,0 +1,3 @@
+¿Qué diferencia la notación de puntos vs la de corchetes?
+La diferencia está en la forma de llamar un dato o valor. Con la notación de puntos nombramos el objeto, seguido de su llave para obtener su valor.
+Con la notación de corchetes se llama un elemento dentro de un objeto o arreglo, aquí se debe usar el string exacto del valor que estamos buscando.

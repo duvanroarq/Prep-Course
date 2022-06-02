@@ -1,0 +1,3 @@
+¿Qué es una propiedad?
+
+Es algo que caracteriza a un objeto con el cual se puede realizar algo, así como las personas tienen cualidades que las hacen esa persona, los objetos tienen propiedades.
