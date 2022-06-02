@@ -1,0 +1,3 @@
+¿Qué es una función CallBack?
+
+Es una manera de ejecutar las instrucciones de una función dentro de otra misma, con el objetivo de hacer nuestro código aún más eficiente. Por ejemplo sí nuestra función es hacer un desayuno, podemos llamar una función de hacer jugo de naranja, otra función de hacer huevos revueltos para finalmente tener un desayuno completo.
